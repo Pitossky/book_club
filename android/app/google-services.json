@@ -12,7 +12,20 @@
           "package_name": "com.example.book_club_app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "828839184251-58hmrui4dghmlfc96e186a86601lbl60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.book_club_app",
+            "certificate_hash": "230207027c9548a28f8f39d54f3d4be853356d6d"
+          }
+        },
+        {
+          "client_id": "828839184251-k1k40erk06o4hc5tcpsflrf612lvgd7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDFjNxw7p6VH9O_ut7DqJktVq_JHfTXDt8"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828839184251-k1k40erk06o4hc5tcpsflrf612lvgd7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
